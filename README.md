@@ -17,14 +17,3 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyagohlm/)
 
-<p align="center">
-   <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyagohenrique&layout=compact&theme=tokyonight"
-    />
-  <img   
-      align="center"
-      height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=hyagohenrique&show_icons=true&theme=tokyonight"
-    />
-</p>
